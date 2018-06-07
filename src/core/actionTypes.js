@@ -1,0 +1,8 @@
+export default {
+    NEW_USER: 'NEW_USER',
+    NEW_POST: 'NEW_POST',
+    UPDATE_USERS: 'UPDATE_USERS',
+    UPDATE_POSTS: 'UPDATE_POSTS',
+    LOG_IN: 'LOG_IN',
+    LOG_OUT: 'LOG_OUT'
+};
